@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Linux 常用命令"
+description: ""
+category:
+tags: []
+---
+{% include JB/setup %}
+
 Linux 常用命令
 Linux 系统常用命令格式：
 command [option] [argument1] [argument2] ...
