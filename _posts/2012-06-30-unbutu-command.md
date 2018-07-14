@@ -2,8 +2,8 @@
 layout: post
 title: "Linux 常用命令"
 description: ""
-category:
-tags: []
+category: linux
+tags: [指令]
 ---
 {% include JB/setup %}
 
