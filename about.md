@@ -39,6 +39,3 @@ theme :
     <p> 
 
 <p> 
-
-
-{% include themes/leopardpan/comments.html %}
