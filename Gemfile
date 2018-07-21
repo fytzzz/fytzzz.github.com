@@ -7,5 +7,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # gem "rails"
 
 gem "jekyll", "~> 3.1"
-gem "jekyll-sitemap"
+gem 'redcarpet'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
 gem "pygments.rb"
