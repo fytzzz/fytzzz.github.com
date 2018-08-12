@@ -5,9 +5,8 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.5.1" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v0.8.7, ruby-1.8.7-p334) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubygems-update (v1.4.2, ruby-1.8.7-p334) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.2, RVM: ruby-2.5.1) [gem]" level="application" />
   </component>
 </module>
