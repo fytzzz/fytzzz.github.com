@@ -5,7 +5,7 @@ theme :
    name : leopardpan
 ---
 
-一个开发者，工作多年之后，突然有一天有人问你，你的梦想是什么？ 你的梦想是写代码，写代码，还是写代码......
+一个开发者，工作多年之后，突然有一天有人问你，你的梦想是什么？真的是让人难以回答。
 <p>
 当你放弃了学习，你就停止了进步，危机也就来了。
 <p>
@@ -17,25 +17,6 @@ theme :
 <p>
 
 自己的博客迁移过很多地方，期间也中断过很久，坚持的确是一个很困难的事，这次重新在GitHub上搭建这个博客，
-只是想记录一些东西，可以是技术文档，也可以是生活感悟等，属于自己的空间，O(∩_∩)O哈哈~。GitHub上是免费的，写完提交，立刻生效，很方便。
-模板我用的是leopardpan，我比较喜欢这个模板，感谢作者的分享。在博客源码在 <a target="_blank" href='https://github.com/fytzzz/fytzzz.github.com/'>Github</a> 上
-    
-    <p>为尊重作者，下面的说明我就不删除了。</p>
-   
-    <p>
-    如果你想搭建一个跟我一样的博客，可以看我的 
-        <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-        教程
-
-       <p>
-
-    有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-    <p> 
-
-    博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-    <p> 
-
-    <p> 
-
+只是想记录一些东西，可以是技术文档，也可以是生活感悟等，属于自己的空间~。GitHub上是免费的，写完提交，立刻生效，很方便。
+模板我用的是leopardpan，我比较喜欢这个模板，感谢作者的分享，博客源码在 <a target="_blank" href='https://github.com/fytzzz/fytzzz.github.com/'>Github</a>上，欢迎关注。
 <p> 
