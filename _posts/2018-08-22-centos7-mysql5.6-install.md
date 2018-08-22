@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "mysql5.6的安装"
+title: "CENTOS7使用yum安装mysql5.6"
 description: ""
 category: linux
-tags: [shell]
+tags: [mysql]
 theme :
     name: leopardpan
 ---
