@@ -11,14 +11,14 @@ theme :
 
 ### CENTOS7使用yum安装mysql5.6
 
-#####一、检查系统是否安装其他版本的MYSQL数据
+##### 一、检查系统是否安装其他版本的MYSQL数据
 
 ```
 #yum list installed | grep mysql
 #yum -y remove mysql-libs.x86_64
 ```
 
-#####二、安装及配置
+##### 二、安装及配置
 
 ```
 # wget http://repo.mysql.com/mysql-community-release-el6-5.noarch.rpm
@@ -26,18 +26,18 @@ theme :
 # yum repolist all | grep mysql
 ```
 
-#####安装mysql
+##### 安装mysql
 ```
 # yum install mysql-community-server -y
 ```
 
-#####设置开机启动
+##### 设置开机启动
 ```
 # chkconfig --list | grep mysqld
 # chkconfig mysqld on
 ```
 
-#####设置远程root
+##### 设置远程root
 ```
 # service mysqld start
 # mysql_secure_installation
